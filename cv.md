@@ -40,7 +40,7 @@ and last, but not least - be helpful
     ```
 
 6. Since summer 2019 I, ve been working on portal elearning.mslu.by, from fronted part like appearence(at the start Bootstrap 3, after Bootstrap 4)
-and later backend(at the start Python 2.7, after Python 3.7), and now actively learning React Hooks with basic React classes.
+and later backend(at the start Python 2.7, after Python 3.7), parallel finished RS 2019 Q3 and now actively learning React Hooks with basic React classes.
 
 7. Education and courses:
 
@@ -52,5 +52,5 @@ and later backend(at the start Python 2.7, after Python 3.7), and now actively l
 
 8. Language base:
 
-    - English(pre - intermediate level) course at Bsuir 2014 - 2015
-    - English(upper - intermediate level) course at Bsuir 2016 - 2017
+    - English(pre - intermediate level) course at the Belarusian State University of Informatics and Radioelectronics 2014 - 2015
+    - English(upper - intermediate level) course at the Belarusian State University of Informatics and Radioelectronics 2016 - 2017
