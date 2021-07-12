@@ -8,23 +8,30 @@ My goal is become professional programmer in Web, communicate with smart interes
 
 4. Knowledge:
 
-    - Programming languages(basic knowledge):
+    Programming languages(basic knowledge):
 
-        * JavaScript (Typescript)
-        * React
-        * HTML, CSS(Bootstrap, Material Design)
+    - JavaScript (Typescript)
+    - React
+    - HTML, CSS(Bootstrap, Material Design)
 
-    - Others(basic knowledge):
+    <br>
 
-        * OOP
-        * MVC
-        * Webpack
-        * Git
-        * Bash
-        * model OSI
+    Others(basic knowledge):
 
-&nbsp;
+    - OOP
+    - MVC
+    - Webpack
+    - Git
+    - Bash
+    - model OSI
 
+    <br>
+
+    ##### Experience with support layout in commercial cms like Wordpress, bitrix
+
+    <br>
+
+  
 5.  Example of code:
 
     #### Creating bootstrap 5 modal popup function: 
@@ -81,7 +88,12 @@ to backend support(at the start Python 2.7, after Python 3.7), parallel finished
     - RS 2020 Q1 (JavaScript)
     - RSS React 2020 Q3 (React)
 
-&nbsp;
+    <br>
+
+    ##### Current RS 2021 (JavaScript) in progress
+
+    <br>
+
 
 8. Language base:
 
