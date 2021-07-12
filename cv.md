@@ -23,7 +23,7 @@ My goal is become professional programmer in Web, communicate with smart interes
         * Bash
         * model OSI
 
-<br>
+&nbsp;
 
 5.  Example of code:
 
@@ -80,8 +80,8 @@ to backend support(at the start Python 2.7, after Python 3.7), parallel finished
     - RS 2019 Q3 (JavaScript)
     - RS 2020 Q1 (JavaScript)
     - RSS React 2020 Q3 (React)
-    
-<br>
+
+&nbsp;
 
 8. Language base:
 
