@@ -27,7 +27,7 @@ My goal is become professional programmer in Web, communicate with smart interes
 
     <br>
 
-    #### Experience with support layout in commercial cms like Wordpress, bitrix
+    Experience with support layout in commercial cms like Wordpress, bitrix
 
     <br>
 
@@ -90,7 +90,7 @@ to backend support(at the start Python 2.7, after Python 3.7), parallel finished
 
     <br>
 
-    #### Current RS 2021 (JavaScript) in progress
+    Current RS 2021 (JavaScript) in progress
 
     <br>
 
