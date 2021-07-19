@@ -173,19 +173,30 @@ footer {
 .footer-block {
   position: relative;
   padding-left: 70px;
+  font-weight: bold;
 }
-.footer-block a {
+a.footer-link {
+  display: inline-block;
   font-size: 29px;
   font-weight: bold;
   line-height: 50px;
   font-family: "Glowworm";
   color: #4c4c4c;
   text-shadow: 1px 2px 1px #fff;
-  -webkit-transition: color 0.2s ease-in-out;
-  -o-transition: color 0.2s ease-in-out;
-  transition: color 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
-.footer-block a:hover {
+a.footer-link_rs {
+    height: 23px;
+    margin: 0 0 -2px 14px;
+}
+a.footer-link_rs img {
+  display: block;
+  height: 100%;
+  width: auto;
+}
+a.footer-link:hover {
   color: #4c4c4cb3;
 }
 .footer-block .fa-li {
@@ -197,6 +208,9 @@ footer {
   -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
+}
+a.footer-link:hover .fa-li {
+  color: #ec102a;
 }
 @media screen and (max-width: 1023px) {
   .contact {
